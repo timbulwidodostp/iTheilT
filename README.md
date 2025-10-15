@@ -1,6 +1,8 @@
 # iTheilT
 Individual decomposition of Theil's T Index Use iTheilT With (In) R Software
 
+https://www.youtube.com/watch?v=UwUkOhmcBMU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
